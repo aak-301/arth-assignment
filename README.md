@@ -4,8 +4,8 @@ A responsive task management application to create, organize, search, and track 
 
 ## Repository
 
-- GitHub: `<add-your-github-repo-link>`
-- Hosted Demo: `<add-your-hosted-demo-link-if-any>`
+- GitHub: `https://github.com/aak-301/arth-assignment`
+- Hosted Demo: `https://arth-assignment.onrender.com`
 
 ## Tech Stack
 
