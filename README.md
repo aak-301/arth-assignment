@@ -4,8 +4,8 @@ A responsive task management application to create, organize, search, and track 
 
 ## Repository
 
-- GitHub: `https://github.com/aak-301/arth-assignment`
-- Hosted Demo: `https://arth-assignment.onrender.com`
+- GitHub: [https://github.com/aak-301/arth-assignment](https://github.com/aak-301/arth-assignment)
+- Hosted Demo: [https://arth-assignment.onrender.com](https://arth-assignment.onrender.com)
 
 ## Tech Stack
 
@@ -72,8 +72,7 @@ npm run build
 
 ## Key Decisions and Tradeoffs
 
-- **Zustand over Redux:** chosen for simpler setup and faster iteration while keeping predictable action-based updates.
-- **Component refactor for maintainability:** split UI into focused components (`AppHeader`, `TaskFilters`, `TaskList`, modal) to improve SRP and readability.
+- **Zustand state-management:** chosen for simpler setup and faster iteration while keeping predictable action-based updates.
 - **Native drag-and-drop:** lightweight and dependency-free, though it provides less advanced UX than dedicated DnD libraries.
 - **Debounced search (300ms):** reduces unnecessary filtering work while typing.
 - **UUID task IDs:** ensures stable identity across reorder/edit/delete and persistence.
